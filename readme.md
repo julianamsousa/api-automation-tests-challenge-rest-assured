@@ -9,8 +9,6 @@ ___
 * Report usando o [Allure Framework](https://github.com/allure-framework)
 
 
- Report do projeto: [Overview](http://localhost:63342/api-automation-tests-challenge-rest-assured/target/site/allure-maven-plugin/index.html?_ijt=ugbun1ipglq1orq16gtrnjt1hi&_ij_reload=RELOAD_ON_SAVE#)
-
 
 
 
