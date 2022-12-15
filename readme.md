@@ -1,6 +1,6 @@
 ### Desafio: Explorando o Rest Assured para a Automação de Testes de API  ###
 
-Repositório contém desafio de projeto do Bootcamp da GFT Quality Assurance para mulheres.
+Repositório contém desafio de projeto do Bootcamp da DIO - GFT Quality Assurance para mulheres.
 ___
 **Aqui você vai encontrar:**
 
